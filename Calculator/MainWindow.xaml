@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Calculator"
         mc:Ignorable="d"
-        Title="Калькулятор" Height="287.5" Width="207.5" PreviewTextInput="Window_PreviewTextInput" 
+        Title="Калькулятор" Height="313" Width="237.5" PreviewTextInput="Window_PreviewTextInput" 
         WindowStartupLocation="CenterScreen" ResizeMode="NoResize">
     <Grid>
         <Grid.RowDefinitions>
